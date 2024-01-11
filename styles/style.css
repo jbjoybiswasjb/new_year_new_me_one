@@ -20,7 +20,7 @@ body {
 header {
     background-image: url("../images/banner/banner1.png");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: 25% 0;
     background-size: cover;
 }
 
@@ -189,3 +189,10 @@ main {
     border-radius: 5px;
     padding: 20px 35px;
 }
+
+
+
+/* 
+                                    Footer Section.
+=========================================================================================
+*/
