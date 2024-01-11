@@ -57,3 +57,108 @@ header {
     font-size: 20px;
     font-weight: 600;
 }
+
+
+
+
+/* 
+                                    Main Section.
+=========================================================================================
+*/
+
+main {
+    background-color: #FFF;
+}
+
+/* 
+                               Previous failures section.
+=============================================================================
+*/
+.previous_failures_padding {
+    padding: 140px 0;
+}
+
+.previous_failures_flex {
+    display: flex;
+    gap: 105px;
+    align-items: center;
+}
+
+.previous_failures_photo img {
+    width: 400px;
+    height: 500px;
+}
+
+
+/* previous_failures_text */
+.previous_failures_text h3 {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.previous_failures_flex p {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 25px 0 15px;
+}
+
+.previous_failures_text ul {
+    list-style: none;
+}
+
+.previous_failures_text ul li {
+    margin-bottom: 10px;
+}
+
+.previous_failures_text ul li span {
+    font-weight: bold;
+    color: #16D887;
+}
+
+
+
+/* 
+                               My plans section.
+=============================================================================
+*/
+.may_plans_flex {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#may_plans>div h4 {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.new_year_common_mergin>div {
+    display: flex;
+    gap: 100px;
+}
+
+.may_plans_flex h5 {
+    margin: 15px 0;
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.may_plans_flex p {
+    color:#737272;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+
+
+/* 
+                               Positive mindset section.
+=============================================================================
+*/
